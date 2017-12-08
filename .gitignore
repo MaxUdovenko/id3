@@ -100,3 +100,9 @@ ENV/
 # mypy
 .mypy_cache/
 .DS_Store
+mp3_class/Китай.mp3
+.idea/id3.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
